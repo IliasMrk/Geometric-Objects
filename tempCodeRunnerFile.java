@@ -1,0 +1,1 @@
+((Scalable) o).scale(factor);
